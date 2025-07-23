@@ -79,6 +79,10 @@ Directory Structure
 ├── README.md            # Project documentation
 └── waveforms/           # (Optional) Screenshots of simulation waveforms
 
+Output
+![image alt](https://github.com/OmShirse/4_Bit_ALU/blob/394231ed403d7dea82b9ca6d08c8ef0ae826277f/ALU%204bit%20Output.png)
+
+ 
 Achievements
 
 Implemented a modular 4-bit ALU supporting six operations.
