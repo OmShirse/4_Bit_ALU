@@ -69,16 +69,6 @@ Expected results:
 | NOT (NOT 1100)            | 1100 | 0000 | 101 | 0011            | 0    |
 | Zero flag test (2 - 2)    | 0010 | 0010 | 001 | 0000            | 1    |
 
-
-
-
-Directory Structure
-4bit-ALU-VHDL/
-├── ALU_4bit.vhd         # ALU design file
-├── ALU_4bit_tb.vhd      # Testbench file
-├── README.md            # Project documentation
-└── waveforms/           # (Optional) Screenshots of simulation waveforms
-
 Output
 ![image alt](https://github.com/OmShirse/4_Bit_ALU/blob/394231ed403d7dea82b9ca6d08c8ef0ae826277f/ALU%204bit%20Output.png)
 
